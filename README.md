@@ -44,9 +44,7 @@ AtomicInteger
 Simulación de procesos concurrentes
 
 - Estructura del proyecto
-(Basado en la clase principal que me pasaste; ajusta si tienes más clases)
 
-Clase	Descripción
 Almacen:	Clase principal. Configura el sistema, crea estaciones, inicia generador, dispatcher y mantenimiento.
 Paquete:	Representa un paquete. Tiene prioridad (urgente o normal) e ID.
 Estacion:	Cada estación tiene procesadores internos y una cinta transportadora. Procesa paquetes.
